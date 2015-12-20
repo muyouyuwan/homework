@@ -36,3 +36,13 @@ requests
 
 2: 一键安装
 pip  install -r requirements.txt  
+
+
+三： Github使用指南
+
+1: 浏览器的方式直接上传作业
+https://github.com/shengxinjing/my_blog/issues/4
+
+
+2: 命令行方式上传作用
+https://github.com/51reboot/actual_07_homework
